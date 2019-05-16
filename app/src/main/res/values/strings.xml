@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">URL</string>
+    <string name="front_activity">
+        \t Bookings for,\n
+        \t\t\t\t\tParkings.\n
+        \t\t\t\t\tBike Taxi.\n
+        \t\t\t\t\tCab Bookings.
+    </string>
+</resources>
